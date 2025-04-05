@@ -27,7 +27,7 @@ I'm a **BTech CSE-IoT** student passionate about **Full Stack Development, AI/ML
 - 🌐 Building **full-stack applications & AI-driven tools**
 - ⚡ Contributing to **open-source projects**
 
-## 🤝 Let's Collaborate on future projects 🤝
+## 🤝 Let's Collaborate 🤝
 I'm always open to collaborating on:
 - 🧠 **AI/ML and NLP Projects**
 - 🌍 **Full Stack Development Projects**
