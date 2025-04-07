@@ -35,7 +35,6 @@ I'm always open to collaborating on:
 - 🏆 **Hackathons & Competitions**
 
 ## 📫 Connect With Me 🌐
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/saajan376/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saajan-varghese-058453244/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saajan.varghese.2006@gmail.com)
 
