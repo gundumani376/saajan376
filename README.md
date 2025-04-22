@@ -4,7 +4,7 @@
 I'm a **BTech CSE-IoT** student passionate about **Full Stack Development, AI/ML, NLP, and DSA**. I love solving problems, building impactful projects, and continuously expanding my knowledge.
 
 ## 🌱 Currently Learning 📖
-- 💻 **Full Stack Development** (Frontend & Backend)
+- 💻 **Full Stack Development (Frontend & Backend)**
 - 🤖 **Artificial Intelligence & Machine Learning**
 - 🗣 **Natural Language Processing (NLP)**
 - 🔢 **Data Structures & Algorithms (DSA)**
